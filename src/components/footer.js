@@ -3,8 +3,8 @@ import { NavLink } from "react-router-dom";
 const Footer = () => {
     return (
         <>
-            <div className='ptb150 bg-img ' style={{backgroundImage:`url(/images/home/bg.jpg)`}}>
-                <img src='/images/icon-w.png' className='icon' alt="Austral Brass icon" />
+            <div className='ptb150 bg-img ' style={{backgroundImage:`url(./images/home/bg.jpg)`}}>
+                <img src='./images/icon-w.png' className='icon' alt="Austral Brass icon" />
                 <h2>HAVE A PROJECT IN MIND?
                 </h2>
                 <NavLink className="explore" to="/contact">Make an Enquiry</NavLink>

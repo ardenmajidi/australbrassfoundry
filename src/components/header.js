@@ -1,9 +1,10 @@
 import React from 'react';
 import { NavLink } from "react-router-dom";
+
 const Header = () => {
     return(
         <div id="header"> 
-           <NavLink  className="logo" to="/"><img className='img' alt='Austral Brass logo'  src="/images/logo.png"/></NavLink>     
+           <NavLink  className="logo" to="/"><img className='img' alt='Austral Brass logo'  src="./images/logo.png"/></NavLink>     
            <nav id="nav">
             <NavLink  className="main-link" to="/">Home</NavLink>
             <NavLink  className="main-link" to="/services">Services</NavLink>    

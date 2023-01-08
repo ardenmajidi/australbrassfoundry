@@ -1,5 +1,6 @@
 import React,{useEffect} from 'react';
 import { NavLink } from "react-router-dom";
+
 const Home = () => {
 
     const boxes=document.getElementsByClassName('imgToChange');
@@ -62,7 +63,7 @@ const Home = () => {
             </div>
             <div className='flex-c '>
                 <div className='half box'>
-                    <img className='img imgToChange' src='/images/home/servicesx.jpg'  data-src='/images/home/services.jpg'  alt='Austral Brass services'  />
+                    <img className='img imgToChange' src='./images/home/servicesx.jpg'  data-src='./images/home/services.jpg'  alt='Austral Brass services'  />
                 </div>
                 <div className='half flex-h'>
                     <div className='max650'>
@@ -91,12 +92,12 @@ const Home = () => {
                     </div>
                 </div>
                 <div className='half box'>
-                    <img className='img imgToChange' data-src='/images/home/products.jpg' src='/images/home/productsx.jpg'   alt='Austral Brass produts' />
+                    <img className='img imgToChange' data-src='./images/home/products.jpg' src='./images/home/productsx.jpg'   alt='Austral Brass produts' />
                 </div>
             </div>
             <div className='flex-c'>
                 <div className='half box'>
-                    <img className='img imgToChange' data-src='/images/home/about.jpg' src='/images/home/aboutx.jpg'  alt='Austral Brass about'  />
+                    <img className='img imgToChange' data-src='./images/home/about.jpg' src='./images/home/aboutx.jpg'  alt='Austral Brass about'  />
                 </div>
                 <div className='half flex-h'>
                     <div className='max650'>
