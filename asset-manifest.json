@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/australbrassfoundry/static/css/main.a6dee6ac.css",
-    "main.js": "/australbrassfoundry/static/js/main.15131a26.js",
+    "main.js": "/australbrassfoundry/static/js/main.b5546656.js",
     "index.html": "/australbrassfoundry/index.html",
     "main.a6dee6ac.css.map": "/australbrassfoundry/static/css/main.a6dee6ac.css.map",
-    "main.15131a26.js.map": "/australbrassfoundry/static/js/main.15131a26.js.map"
+    "main.b5546656.js.map": "/australbrassfoundry/static/js/main.b5546656.js.map"
   },
   "entrypoints": [
     "static/css/main.a6dee6ac.css",
-    "static/js/main.15131a26.js"
+    "static/js/main.b5546656.js"
   ]
 }
