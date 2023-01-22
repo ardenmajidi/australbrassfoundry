@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/australbrassfoundry/static/css/main.072920fb.css",
-    "main.js": "/australbrassfoundry/static/js/main.b2692101.js",
+    "main.css": "/australbrassfoundry/static/css/main.fea30d46.css",
+    "main.js": "/australbrassfoundry/static/js/main.43ae424c.js",
     "index.html": "/australbrassfoundry/index.html",
     "static/media/search.svg": "/australbrassfoundry/static/media/search.0b43f2ae8fc7710e56d5.svg",
-    "main.072920fb.css.map": "/australbrassfoundry/static/css/main.072920fb.css.map",
-    "main.b2692101.js.map": "/australbrassfoundry/static/js/main.b2692101.js.map"
+    "static/media/close.svg": "/australbrassfoundry/static/media/close.4a631733f167b9e8c960.svg",
+    "main.fea30d46.css.map": "/australbrassfoundry/static/css/main.fea30d46.css.map",
+    "main.43ae424c.js.map": "/australbrassfoundry/static/js/main.43ae424c.js.map"
   },
   "entrypoints": [
-    "static/css/main.072920fb.css",
-    "static/js/main.b2692101.js"
+    "static/css/main.fea30d46.css",
+    "static/js/main.43ae424c.js"
   ]
 }
